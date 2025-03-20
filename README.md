@@ -11,4 +11,4 @@ Keyboard models
 # HID 6 keys 1 knob
 
 <img align="center" src = "6 key 1 knob/P1150263.JPG" style="width:300px" >
-<img align="center" src = "6 key 1 knob/P1150281.JPG" style="width:300px" >
+<img align="center" src = "6 key 1 knob/P1150281.jpeg" style="width:300px" >
