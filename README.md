@@ -1,4 +1,5 @@
 Keyboard models
+The images size are large so might take few seconds to appear
 
 # HID 4 keys
 
